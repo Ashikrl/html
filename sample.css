@@ -1,0 +1,14 @@
+sample{
+ width: 400px;
+ height: 300px;
+}
+table,th,td{
+    border: 1px seagreen;
+    background-color: bisque;
+}
+table,th{
+    background-color: aqua;
+}
+table,td{
+    background-color: blue;
+}
